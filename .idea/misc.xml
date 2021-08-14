@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/active_subscription_layout.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_purchase_plan.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_subscription.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_terms.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_wallet.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_web_view.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/card_live_tv.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/card_server.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/dialog_fund_wallet.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/layout_payment_bottom_shit.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/subscription_layout.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1111111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

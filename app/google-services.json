@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403441755996",
+    "project_id": "kallong",
+    "storage_bucket": "kallong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403441755996:android:a1072740a98fca72f20399",
+        "android_client_info": {
+          "package_name": "com.ng.kallo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403441755996-f6pc4uspqllhb7pmch3c1usn8gc7eoiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ng.kallo",
+            "certificate_hash": "f1a1da360862b50ad5b4a81225b932544df4ee36"
+          }
+        },
+        {
+          "client_id": "403441755996-ilrvcd8rqeaornm6pp2ugt0k61cb33bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmYQJ8fQnQl7AVeee0k9OfHlcYiYPicM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403441755996-ilrvcd8rqeaornm6pp2ugt0k61cb33bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

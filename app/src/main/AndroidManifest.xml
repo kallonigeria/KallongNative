@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ng.kallo"
+    tools:ignore="MissingLeanbackLauncher">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="com.ng.kallo.utils.MyAppClass"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.ng.kallo.RazorPayActivity" />
+        <activity android:name="com.ng.kallo.MyRavePayActivity" />
+        <activity android:name="com.ng.kallo.SearchActivity" />
+        <activity android:name="com.ng.kallo.WalletActivity" />
+        <activity android:name="com.ng.kallo.FirebaseSignUpActivity" />
+<!--        <activity android:name="com.ng.fimplay.EventPaymentStripeActivity" />-->
+        <activity
+            android:name="com.ng.kallo.PapalPaymentActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity android:name="com.ng.kallo.WebViewActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_application_id" />
+        <meta-data
+            android:name="com.onesignal.NotificationOpened.DEFAULT"
+            android:value="DISABLE" />
+        <meta-data
+            android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
+            android:value="com.google.android.exoplayer2.ext.cast.DefaultCastOptionsProvider" /> <!-- facebook -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"
+            tools:replace="android:value" />
+
+        <!--razorpay metadata-->
+       <!-- <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_live_eHkQKgddhVS9ub"/>-->
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity> <!-- facebook end -->
+        <activity
+            android:name="com.ng.kallo.TermsActivity"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.ReplyActivity"
+            android:label="@string/title_activity_reply"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.ng.kallo.ProfileActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.PassResetActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.SearchResultActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.SignUpActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.LoginActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.DetailsActivity"
+            android:configChanges="screenLayout|screenSize|orientation"
+            android:label="@string/title_activity_details"
+            android:theme="@style/AppTheme.NoActionBar" /> <!-- android:configChanges="screenLayout|screenSize|orientation" -->
+        <activity
+            android:name="com.ng.kallo.MainActivity"
+            android:theme="@style/AppTheme.Nobar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.ng.kallo.SettingsActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.SplashScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ng.kallo.ItemMovieActivity"
+            android:label="@string/title_activity_item_show"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.ng.kallo.ItemTVActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.ItemSeriesActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.SubscriptionActivity"
+            android:theme="@style/AppTheme.Nobar" />
+<!--        <activity-->
+<!--            android:name="com.ng.fimplay.StripePaymentActivity"-->
+<!--            android:theme="@style/AppTheme.Nobar" />-->
+        <activity
+            android:name="com.ng.kallo.PurchasePlanActivity"
+            android:theme="@style/AppTheme.Nobar" />
+        <activity
+            android:name="com.ng.kallo.DownloadActivity"
+            android:theme="@style/AppTheme.Nobar" /> <!-- StartApp activities integration -->
+        <activity
+            android:name="com.startapp.android.publish.ads.list3d.List3DActivity"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.startapp.android.publish.adsCommon.activities.OverlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme" />
+
+        <service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
+        <service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
+        <service
+            android:name="com.startapp.android.publish.common.metaData.PeriodicJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver android:name="com.startapp.android.publish.common.metaData.BootCompleteListener">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

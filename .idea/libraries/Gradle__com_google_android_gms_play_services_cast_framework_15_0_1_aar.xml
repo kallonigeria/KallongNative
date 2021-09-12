@@ -4,9 +4,12 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96a514788ea1897ddf2878a71a295d8f/jetified-play-services-cast-framework-15.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96a514788ea1897ddf2878a71a295d8f/jetified-play-services-cast-framework-15.0.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96a514788ea1897ddf2878a71a295d8f/jetified-play-services-cast-framework-15.0.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9590ab555ab569973625fc39f0dba30a/jetified-play-services-cast-framework-15.0.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9590ab555ab569973625fc39f0dba30a/jetified-play-services-cast-framework-15.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9590ab555ab569973625fc39f0dba30a/jetified-play-services-cast-framework-15.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/e7732bfcd37dc33c24ea59dd867724d2/jetified-play-services-cast-framework-15.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/e7732bfcd37dc33c24ea59dd867724d2/jetified-play-services-cast-framework-15.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/e7732bfcd37dc33c24ea59dd867724d2/jetified-play-services-cast-framework-15.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/2d70dbc49656dcb6c482176789968e92/jetified-play-services-cast-framework-15.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/2d70dbc49656dcb6c482176789968e92/jetified-play-services-cast-framework-15.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/2d70dbc49656dcb6c482176789968e92/jetified-play-services-cast-framework-15.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

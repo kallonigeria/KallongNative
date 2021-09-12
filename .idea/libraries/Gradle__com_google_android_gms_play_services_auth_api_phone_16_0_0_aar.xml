@@ -4,9 +4,13 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d191b3724956bb9b3944389f617c69e/jetified-play-services-auth-api-phone-16.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d191b3724956bb9b3944389f617c69e/jetified-play-services-auth-api-phone-16.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d191b3724956bb9b3944389f617c69e/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d03cc219effb2c1e25e7bd66803df14/jetified-play-services-auth-api-phone-16.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d03cc219effb2c1e25e7bd66803df14/jetified-play-services-auth-api-phone-16.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d03cc219effb2c1e25e7bd66803df14/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/10f618607fe2cf6a74804368830d05f5/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/10f618607fe2cf6a74804368830d05f5/jetified-play-services-auth-api-phone-16.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/10f618607fe2cf6a74804368830d05f5/jetified-play-services-auth-api-phone-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/b8b9afbdd4b7f152a7f60716b6ad1a4f/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/b8b9afbdd4b7f152a7f60716b6ad1a4f/jetified-play-services-auth-api-phone-16.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/b8b9afbdd4b7f152a7f60716b6ad1a4f/jetified-play-services-auth-api-phone-16.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

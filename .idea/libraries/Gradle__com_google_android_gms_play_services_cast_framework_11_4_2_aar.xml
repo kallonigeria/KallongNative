@@ -7,9 +7,12 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e962da111b2df628ae389db0a04ca189/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e962da111b2df628ae389db0a04ca189/jetified-play-services-cast-framework-11.4.2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e962da111b2df628ae389db0a04ca189/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d1ec6fa530048fb205aa2bbfb17fdd0/jetified-play-services-cast-framework-11.4.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d1ec6fa530048fb205aa2bbfb17fdd0/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d1ec6fa530048fb205aa2bbfb17fdd0/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4f813113b1fb917253176473e6d213b7/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4f813113b1fb917253176473e6d213b7/jetified-play-services-cast-framework-11.4.2/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4f813113b1fb917253176473e6d213b7/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

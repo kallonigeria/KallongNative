@@ -13,8 +13,20 @@
         <entry key="app/src/main/res/layout/card_live_tv.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/card_server.xml" value="0.17028985507246377" />
         <entry key="app/src/main/res/layout/dialog_fund_wallet.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/layout_country_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_country_item_2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_deactivate.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/layout_download_item.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/layout_download_item_vertical.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_download_server_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_genre_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_genre_item_2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_livetv_category_item.xml" value="0.31827227525377505" />
+        <entry key="app/src/main/res/layout/layout_package_item.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/layout_package_item_2.xml" value="0.375" />
         <entry key="app/src/main/res/layout/layout_payment_bottom_shit.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/subscription_layout.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/slider_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/subscription_layout.xml" value="0.375" />
         <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1111111111111111" />
       </map>
     </option>

@@ -4,15 +4,19 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94f33b433170e4837e288b815b7a15c8/jetified-extension-rtmp-2.7.3/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94f33b433170e4837e288b815b7a15c8/jetified-extension-rtmp-2.7.3/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94f33b433170e4837e288b815b7a15c8/jetified-extension-rtmp-2.7.3/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72505a6bb3fa56f1e4bebbcb8d416529/jetified-extension-rtmp-2.7.3/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72505a6bb3fa56f1e4bebbcb8d416529/jetified-extension-rtmp-2.7.3/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72505a6bb3fa56f1e4bebbcb8d416529/jetified-extension-rtmp-2.7.3/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/abbf316334aad5134f499b3cd11c9350/jetified-extension-rtmp-2.7.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/abbf316334aad5134f499b3cd11c9350/jetified-extension-rtmp-2.7.3/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/abbf316334aad5134f499b3cd11c9350/jetified-extension-rtmp-2.7.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/360af006378fb50b918779a4683289b8/jetified-extension-rtmp-2.7.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/360af006378fb50b918779a4683289b8/jetified-extension-rtmp-2.7.3/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/360af006378fb50b918779a4683289b8/jetified-extension-rtmp-2.7.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-rtmp/2.7.3/ec3399591cb253af1da7cd1c380f2ea53e831909/extension-rtmp-2.7.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-rtmp/2.7.3/ec3399591cb253af1da7cd1c380f2ea53e831909/extension-rtmp-2.7.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-rtmp/2.7.3/f63ae93b14ae10a36e9bcbf732b56c72a6abada/extension-rtmp-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-rtmp/2.7.3/f63ae93b14ae10a36e9bcbf732b56c72a6abada/extension-rtmp-2.7.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -4,15 +4,18 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd1565b50428973883d9df510382b120/jetified-ViewPagerIndicator-2.4.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd1565b50428973883d9df510382b120/jetified-ViewPagerIndicator-2.4.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd1565b50428973883d9df510382b120/jetified-ViewPagerIndicator-2.4.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b63d4ba589f1e992bb5b6ac52850000a/jetified-ViewPagerIndicator-2.4.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b63d4ba589f1e992bb5b6ac52850000a/jetified-ViewPagerIndicator-2.4.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b63d4ba589f1e992bb5b6ac52850000a/jetified-ViewPagerIndicator-2.4.1/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/04b570b01c619b70e17d4ae5f33773dd/jetified-ViewPagerIndicator-2.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/04b570b01c619b70e17d4ae5f33773dd/jetified-ViewPagerIndicator-2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/04b570b01c619b70e17d4ae5f33773dd/jetified-ViewPagerIndicator-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/63bbf69473c75a834b02030f689ae274/jetified-ViewPagerIndicator-2.4.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/63bbf69473c75a834b02030f689ae274/jetified-ViewPagerIndicator-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/63bbf69473c75a834b02030f689ae274/jetified-ViewPagerIndicator-2.4.1/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JakeWharton/ViewPagerIndicator/2.4.1/955ad71f0af3cf4bb60bb9bc252c2020c1af4aae/ViewPagerIndicator-2.4.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.JakeWharton/ViewPagerIndicator/2.4.1/955ad71f0af3cf4bb60bb9bc252c2020c1af4aae/ViewPagerIndicator-2.4.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JakeWharton/ViewPagerIndicator/2.4.1/10b5915b5f2eb2fe91ba6df68f99a3ded4e98178/ViewPagerIndicator-2.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.JakeWharton/ViewPagerIndicator/2.4.1/10b5915b5f2eb2fe91ba6df68f99a3ded4e98178/ViewPagerIndicator-2.4.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -3,7 +3,7 @@ package com.ng.kallo;
 public class Config {
 
     // copy your api url from php admin dashboard & paste below
-    public static final String API_SERVER_URL = "http://kallo.ng/rest-api";
+    public static final String API_SERVER_URL = "https://www.kallo.ng/rest-api";
 
     //copy your api key from php admin dashboard & paste below
     public static final String API_KEY = "oczkk67p7pyykt9xlk1eytde";

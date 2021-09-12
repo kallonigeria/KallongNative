@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.Flutterwave.rave-android:rave_remote:2.1.6@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/be38904d3006c7bd118397b424d5e055/jetified-rave_remote-2.1.6/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_remote/2.1.6/bbd89c80bb1b349a7e9db2c5d7bf37cf006cb384/rave_remote-2.1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_remote/2.1.6/bbd89c80bb1b349a7e9db2c5d7bf37cf006cb384/rave_remote-2.1.6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

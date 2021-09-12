@@ -4,9 +4,13 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c89de360c727f9e1914440fa5b1cdd84/jetified-consent-library-1.0.8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c89de360c727f9e1914440fa5b1cdd84/jetified-consent-library-1.0.8/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c89de360c727f9e1914440fa5b1cdd84/jetified-consent-library-1.0.8/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af91f867d8a0703d943fcba0708c4338/jetified-consent-library-1.0.8/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af91f867d8a0703d943fcba0708c4338/jetified-consent-library-1.0.8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af91f867d8a0703d943fcba0708c4338/jetified-consent-library-1.0.8/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/aa36831cb689321bc7fb3126b5f695b5/jetified-consent-library-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/aa36831cb689321bc7fb3126b5f695b5/jetified-consent-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/aa36831cb689321bc7fb3126b5f695b5/jetified-consent-library-1.0.8/res" />
+      <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4b7276ff31004e64a51db5b38f64537f/jetified-consent-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4b7276ff31004e64a51db5b38f64537f/jetified-consent-library-1.0.8/res" />
+      <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/4b7276ff31004e64a51db5b38f64537f/jetified-consent-library-1.0.8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

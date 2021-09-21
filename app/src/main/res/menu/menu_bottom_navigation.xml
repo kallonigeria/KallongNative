@@ -12,9 +12,10 @@
         android:title="@string/live"
         android:icon="@drawable/icon_tv"/>
 
-    <item
-        android:title="Wallet"
-        android:icon="@drawable/ic_wallet"/>
+<!--    <item-->
+<!--        android:visibility="gone"-->
+<!--        android:title="Wallet"-->
+<!--        android:icon="@drawable/ic_wallet"/>-->
     <item
         android:title="Series"
         android:icon="@drawable/icon_tv_series"/>

@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/active_subscription_layout.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_paymet_web.xml" value="0.31567028985507245" />
         <entry key="app/src/main/res/layout/activity_purchase_plan.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/activity_subscription.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/activity_terms.xml" value="0.17028985507246377" />
@@ -16,6 +17,7 @@
         <entry key="app/src/main/res/layout/layout_country_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_country_item_2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_deactivate.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/layout_download_history.xml" value="0.1887031408308004" />
         <entry key="app/src/main/res/layout/layout_download_item.xml" value="0.375" />
         <entry key="app/src/main/res/layout/layout_download_item_vertical.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_download_server_dialog.xml" value="0.1" />
@@ -27,7 +29,7 @@
         <entry key="app/src/main/res/layout/layout_payment_bottom_shit.xml" value="0.25" />
         <entry key="app/src/main/res/layout/slider_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/subscription_layout.xml" value="0.375" />
-        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.335" />
       </map>
     </option>
   </component>

@@ -11,6 +11,7 @@ public class Config {
     //copy your terms url from php admin dashboard & paste below
     public static final String TERMS_URL = "http://kallo.ng/tearms-of-services/";
 
+//    public static final String PAYMENT_URL = "";
     // download option for non subscribed user
     public static final boolean ENABLE_DOWNLOAD_TO_ALL = false;
 

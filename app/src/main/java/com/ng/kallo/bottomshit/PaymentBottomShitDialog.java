@@ -21,6 +21,7 @@ public class PaymentBottomShitDialog extends BottomSheetDialogFragment {
     public static final String PAYPAL = "paypal";
     public static final String STRIP = "strip";
     public static final String WALLET = "wallet";
+    public static final String USSD = "ussd";
     public static final String RAZOR_PAY = "razorpay";
     private DatabaseHelper databaseHelper;
 
@@ -33,9 +34,10 @@ public class PaymentBottomShitDialog extends BottomSheetDialogFragment {
                 false);
         databaseHelper = new DatabaseHelper(getContext());
         PaymentConfig config = databaseHelper.getConfigurationData().getPaymentConfig();
-        CardView paypalBt, stripBt, razorpayBt, walletBt;
+        CardView paypalBt, stripBt, razorpayBt, walletBt, ussd;
         paypalBt = view.findViewById(R.id.razorpay_btn);
-        walletBt = view.findViewById(R.id.wallet_btn);
+        ussd = view.findViewById(R.id.ussd_btn);
+//        walletBt = view.findViewById(R.id.wallet_btn);
         stripBt = view.findViewById(R.id.stripe_btn);
         razorpayBt = view.findViewById(R.id.razorpay_btn);
         Space space = view.findViewById(R.id.space2);
@@ -63,10 +65,17 @@ public class PaymentBottomShitDialog extends BottomSheetDialogFragment {
         });
 
 
-        walletBt.setOnClickListener(new View.OnClickListener() {
+//        walletBt.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                bottomShitClickListener.onBottomShitClick(WALLET);
+//            }
+//        });
+
+        ussd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                bottomShitClickListener.onBottomShitClick(WALLET);
+                bottomShitClickListener.onBottomShitClick(USSD);
             }
         });
 

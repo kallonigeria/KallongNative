@@ -324,17 +324,24 @@ public class PurchasePlanActivity extends AppCompatActivity implements PackageAd
 
     @Override
     public void onBottomShitClick(String paymentMethodName) {
-        if (paymentMethodName.equals(PaymentBottomShitDialog.WALLET)) {
-            int amount = Integer.parseInt(packageItem.getPrice());
-            Log.d("myamount", String.valueOf(amount));
+        if (paymentMethodName.equals(PaymentBottomShitDialog.USSD)) {
+//            int amount = Integer.parseInt(packageItem.getPrice());
+            int planid = Integer.parseInt(packageItem.getPlanId());
+            Log.d("planid", packageItem.getPlanId());
 
-            double mybal = Double.parseDouble(bal);
-            if(mybal < amount){
-                new ToastMsg(PurchasePlanActivity.this).toastIconError(getString(R.string.insufficient_balance));
+            Intent intent = new Intent(PurchasePlanActivity.this, PaymetWeb.class);
+            intent.putExtra("planid", packageItem.getPlanId());
+            intent.putExtra("userid", db.getUserData().getUserId());
+            startActivity(intent);
 
-            }else{
-                updateBalance(amount);
-            }
+
+//            double mybal = Double.parseDouble(bal);
+//            if(mybal < amount){
+//                new ToastMsg(PurchasePlanActivity.this).toastIconError(getString(R.string.insufficient_balance));
+//
+//            }else{
+//                updateBalance(amount);
+//            }
 
         }else if (paymentMethodName.equals(PaymentBottomShitDialog.STRIP)) {
             Intent intent = new Intent(PurchasePlanActivity.this, MyRavePayActivity.class);

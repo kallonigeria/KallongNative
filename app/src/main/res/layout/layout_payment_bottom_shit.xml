@@ -62,7 +62,7 @@
                 android:layout_weight="1" />
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/wallet_btn"
+                android:id="@+id/ussd_btn"
                 android:layout_width="150dp"
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
@@ -78,14 +78,14 @@
                         android:layout_height="120dp"
                         android:background="@color/colorPrimary"
                         android:padding="10dp"
-                        app:srcCompat="@drawable/ic_wallet" />
+                        app:srcCompat="@drawable/ussd" />
 
                     <TextView
                         app:fontFamily="@font/sharp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="Wallet"
+                        android:text="USSD"
                         android:textSize="20sp" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>

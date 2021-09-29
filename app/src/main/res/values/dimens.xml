@@ -9,6 +9,5 @@
     <dimen name="spacing_mlarge">10dp</dimen>
     <dimen name="spacing_xlarge">35dp</dimen>
     <dimen name="spacing_xxlarge">50dp</dimen>
-    <dimen name="lb_details_v2_card_height">430dp</dimen>
 
 </resources>

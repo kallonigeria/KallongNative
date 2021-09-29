@@ -9,7 +9,7 @@ public class Config {
     public static final String API_KEY = "oczkk67p7pyykt9xlk1eytde";
 
     //copy your terms url from php admin dashboard & paste below
-    public static final String TERMS_URL = "http://kallo.ng/tearms-of-services/";
+    public static final String TERMS_URL = "https://www.kallo.ng/page/privacy-policy/";
 
 //    public static final String PAYMENT_URL = "";
     // download option for non subscribed user
@@ -38,36 +38,4 @@ public class Config {
     public static final boolean ENABLE_GOOGLE_LOGIN = true;
 
 
-
-/*
-    // copy your api url from php admin dashboard & paste below
-    public static final String API_SERVER_URL = "http://192.168.1.60/v120_test/api/v100/";
-
-    //copy your api key from php admin dashboard & paste below
-    public static final String API_KEY = "c550f8f5e59f449";
-
-    //copy your api username and password from php admin dashboard & paste below
-    public static final String API_USER_NAME = "Admin";
-    public static final String API_PASSWORD = "022400dffec5b44";
-
-    //copy your terms url from php admin dashboard & paste below
-    public static final String TERMS_URL = "https://spagreen.net/tearms-of-services/";
-
-    //youtube video auto play
-    public static boolean YOUTUBE_VIDEO_AUTO_PLAY = false;
-
-    //default theme
-    public static boolean DEFAULT_DARK_THEME_ENABLE = true;
-
-    // First, you have to configure firebase to enable facebook, phone and google login
-    // facebook authentication
-    public static final boolean ENABLE_FACEBOOK_LOGIN = true;
-
-    //Phone authentication
-    public static final boolean ENABLE_PHONE_LOGIN = true;
-
-    //Google authentication
-    public static final boolean ENABLE_GOOGLE_LOGIN = true;
-
-    */
 }

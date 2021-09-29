@@ -87,48 +87,11 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="FullscreenTheme" parent="AppTheme.NoActionBar">
-        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
-        <item name="android:windowBackground">@null</item>
-
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowFullscreen">true</item>
-    </style>
-
-    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
-        <item name="android:background">@color/black_overlay</item>
-    </style>
-
-    <style name="ExoMediaButton.Previous">
-        <item name="android:visibility">gone</item>
-    </style>
-    <style name="ExoMediaButton.Next">
-        <item name="android:visibility">gone</item>
-    </style>
-
-
-
 
     <style name="Divider">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">1dp</item>
         <item name="android:background">?android:attr/listDivider</item>
-    </style>
-
-    <style name="EditText.GreySoft" parent="@style/AppTheme">
-        <item name="colorControlActivated">@color/grey_40</item>
-        <item name="colorControlHighlight">@color/grey_40</item>
-        <item name="colorControlNormal">@color/grey_20</item>
-    </style>
-
-    <style name="CardWidgetStyle" parent="@android:style/Theme.DeviceDefault">
-        <item name="editTextStyle">@style/EditTextOverride</item>
-        <item name="android:editTextStyle">@style/EditTextOverride</item>
-    </style>
-
-    <style name="EditTextOverride" parent="@android:style/Widget.EditText">
-        <item name="android:textColor">@color/grey_40</item>
-        <item name="android:textColorHint">@color/grey_20</item>
     </style>
 
 

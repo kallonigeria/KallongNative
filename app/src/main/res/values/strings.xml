@@ -1,7 +1,6 @@
 <resources>
     <string name="facebook_app_id" translatable="false">1548843298607838</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb1548843298607838</string>
-    <string name="facebook_application_id" translatable="false">1548843298607838</string>
 
     //admob
     <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
@@ -142,8 +141,6 @@
     <string name="title_activity_item_show">ItemShowActivity</string>
     <string name="title_activity_details">DetailsActivity</string>
     <string name="title_activity_reply">ReplyActivity</string>
-    <string name="play_now">Play Now</string>
-    <string name="go_premium">Go Premium</string>
     <string name="program_guide">Program Guide</string>
     <string name="live">Live</string>
     <string name="watching_on">Watching live on</string>
@@ -155,21 +152,15 @@
     <string name="deactive_account_text">If you do not want to use this account you can de-active easily.</string>
     <string name="reason_to_deactivate_account">Reason to deactivate account</string>
     <string name="enter_password">Enter Password</string>
-    <string name="long_text">Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet</string>
 
     <string name="terms_condition_text">
-        Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc eu urna pellentesque vulputate. Phasellus lacinia ut diam id mattis. Ut fermentum, sem non viverra maximus, elit massa varius dolor, ac elementum mi nunc eu orci. Fusce ornare mi sed dapibus tempus. Quisque sollicitudin condimentum ex vitae imperdiet. Mauris et est non nibh gravida suscipit eget id est.
-        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis quis elit sed cursus. In commodo malesuada elit. Curabitur eget tortor ipsum. In consequat sollicitudin rhoncus. Donec interdum felis vitae ipsum mattis congue. Suspendisse eget tellus sit amet nunc egestas ultrices. Sed placerat eu arcu vel ullamcorper. Curabitur a dictum odio. Suspendisse fermentum ex vel ullamcorper scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam at nisl orci. Nullam ligula purus, pulvinar vel ligula sodales, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper tincidunt scelerisque. Praesent mollis magna ut consequat dictum.
-        \n\nDuis in vestibulum dui, non pulvinar tortor. Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc. Nullam facilisis tincidunt odio eget laoreet. Integer sapien ipsum, fringilla id purus et, cursus convallis dolor. Etiam vel lacinia nibh. Donec sollicitudin fermentum eleifend. Vivamus quis mauris in libero vehicula aliquet sit amet quis odio. Etiam et tincidunt turpis, vel iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam et mollis enim.
-        \n\nPraesent interdum lectus suscipit enim dictum, sed laoreet nisl posuere. Curabitur accumsan tellus ac iaculis fermentum. Curabitur a purus nec nibh porta imperdiet. Vivamus dignissim libero ut mauris rhoncus finibus non at urna. Phasellus a varius elit, a blandit est. Cras sodales tincidunt purus sit amet condimentum. Phasellus consectetur sem nec nisi congue, id gravida risus tristique. Curabitur vulputate convallis purus, vel bibendum nunc ultricies at.
-        \n\nInteger condimentum egestas eros mollis facilisis. Praesent vitae diam ac diam efficitur pretium nec vitae dui. Nunc quam est, porttitor ut dapibus non, sodales id nulla. Mauris facilisis malesuada dapibus. Aliquam erat volutpat. Vivamus vitae consequat mauris, nec dictum erat. Aliquam in consectetur est, sit amet varius risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vulputate dapibus lorem, ut interdum lectus bibendum nec. Suspendisse potenti. Cras elementum cursus nisl, ac pulvinar eros fringilla vitae. Cras ac tortor sagittis diam feugiat tincidunt id at est. Curabitur consequat ante purus. Nunc malesuada scelerisque leo vel efficitur.
+        Terms
     </string>
     <string name="deactivate_account">Deactivate Account</string>
     <string name="explore_by_genre">Explore By Genre</string>
     <string name="explore_by_country">Explore By Country</string>
     <string name="share_this_app">Share This App</string>
-    <string name="connect_to_tv">Connect to TV</string>
-    <string name="share_body">I would like to share this TV &amp; Movie App.  Here you can download this from playstore :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="share_body">I would like to share Kallo App.  Here you can download this from playstore :\n    https://play.google.com/store/apps/details?id=</string>
     <string name="term_of_services">Term of Services</string>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
@@ -185,39 +176,29 @@
     <string name="no_data_found">No data found.</string>
     <string name="no_subscription_history">No subscription history found.</string>
     <string name="plan">Plan</string>
-    <string name="no_active_subscription_found">No active subscription found.</string>
     <string name="upgrade_membership">Upgrade Membership</string>
     <string name="p_date">P.Date</string>
     <string name="from">From</string>
     <string name="to">To</string>
-    <string name="action">Action</string>
     <string name="wallet">Wallet</string>
     <string name="fund_wallet">Fund Wallet</string>
     <string name="status">Status</string>
-    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to Kallo.ng Term & Condition and Privacy Policy.]]></string>
 
 
     <string name="paid_content">You are trying to watch a paid content. Please subscribe a plan first.</string>
     <string name="subscription_required">Subscription Required</string>
     <string name="subscribe_text">Subscribe</string>
     <string name="payment_success">Payment Success.</string>
-    <string name="invalid_card">Invalid card</string>
     <string name="subscribe_error">To subscribe a plan, you have to login first.</string>
     <string name="something_went_text">Something went wrong, try again or contact to your developer.</string>
     <string name="something_went_wrong">Something went wrong.</string>
     <string name="go_back">Go Back</string>
-    <string name="insufficient_balance">Insufficient Wallet Balance</string>
-    <string name="cvv">CVV</string>
-    <string name="mm_yy">MM/YY</string>
-    <string name="card_number">Card Number</string>
     <string name="downloading">Downloading</string>
     <string name="download_completed">Download Completed</string>
     <string name="watch_now">Watch Now</string>
     <string name="download">Download</string>
     <string name="select_server">Select Server</string>
     <string name="home">Home</string>
-    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">Buy any subscription below and enjoy Kallo prime features.</string>
-    <string name="all_tv_channels">TV Channels</string>
     <string name="all_kids_videos">All Kids Videos</string>
     <string name="all_tv_series">All TV Series</string>
     <string name="unlimited_movies">Unlimited Movies</string>
@@ -225,60 +206,29 @@
     <string name="download_appear_text">Your download item will be appear here.  Download item not found.</string>
     <string name="send">Send</string>
     <string name="searcHError_message">Title Or Type can\'t be empty</string>
-    <string name="external_download_links">External Download Links:</string>
-    <string name="rating">Rating</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="add_to_fav">Add to favourite</string>
-    <string name="remove_from_fav">Remove from Favorite</string>
 
-    <string name="enter_your_activation_code">Enter your activation code</string>
-    <string name="enter_code">Enter code here</string>
-    <string name="get_activation_code_following">Follow bellow steps to get code:</string>
-    <string name="instruction_2">2. Then go to Settings.</string>
     <string name="instruction_3">3. Then click on "Connect To TV."</string>
-    <string name="signout">SignOut</string>
-    <string name="connect">Connect</string>
-    <string name="user_name">User Name:</string>
-    <string name="emailTv">Email:</string>
-    <string name="expire_date">Expire date:</string>
-    <string name="signed_in_as">Signed in as:</string>
-    <string name="connecting">Connecting...</string>
-    <string name="active_plan">Active Plan:</string>
 
     <!-- dialog instruction -->
     <string name="dialog_instruction_1">1. Go to your </string>
     <string name="dialog_instruction_2"> app in your phone. </string>
     <string name="dialog_instruction_3">2. Buy a package </string>
     <string name="continue_browsing">Continue browsing</string>
-    <string name="enter_below_code_on_your_tv">Enter below code on your TV</string>
-    <string name="all_radio_channels">All Radio Channels</string>
-    <string name="listening_on">Listening on</string>
     <string name="type_keyword">Type keyword</string>
     <string name="year_range">Year Range</string>
     <string name="cancel">Cancel</string>
     <string name="tv_category">TV Category</string>
-    <string name="sign_up_now">Sign up now</string>
-    <string name="continue_with_google">Continue with Google</string>
-    <string name="sign_up">Sign up</string>
-    <string name="login">Login</string>
-    <string name="login_using_your_email_address">Login using your email address</string>
-    <string name="email_address">Email Address</string>
-    <string name="dont_t_have_an_account">Dont\'t have an account?</string>
-    <string name="sign_up_using_your_email_address">Sign Up using your email address</string>
-    <string name="name">Name</string>
     <string name="all_countries">All Countries</string>
     <string name="all_categories">All Categories</string>
     <string name="external_download">External Download</string>
     <string name="inApp_download">In App Download</string>
-    <string name="select_download_server">Select Download Server</string>
     <string name="all_genres">All Genres</string>
     <string name="download_not_permitted">You must have subscription to download this video.</string>
     <string name="file_already_downloaded">File already downloaded.</string>
     <string name="file_not_found">File not found</string>
     <string name="phone_number_with_country_code">Phone number (with country code)</string>
-    <string name="gender">Gender</string>
     <string name="male">Male</string>
     <string name="user_name_">User Name:</string>
     <string name="active_plan_">Active Plan:</string>
@@ -290,8 +240,6 @@
     <string name="failed_to_communicate">Failed to communicate with server. \nPlease check your Internet configuration</string>
     <string name="no_configuration_data_found">No configuration data found.</string>
     <string name="please_login_first_to_see_favorite_list">Please login to see favorite list.</string>
-
-    <string name="ravekey">FLWPUBK_TEST-7868ccc828f12110189db5a01dd61591-X</string>
 
 
 </resources>

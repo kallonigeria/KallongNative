@@ -43,7 +43,7 @@ import retrofit2.Retrofit;
 public class SplashScreenActivity extends AppCompatActivity {
     private static final String TAG = "SplashScreen";
     private final int PERMISSION_REQUEST_CODE = 100;
-    private int SPLASH_TIME = 3000;
+    private int SPLASH_TIME = 2800;
     private Thread timer;
     private DatabaseHelper db;
 

@@ -4,6 +4,7 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52795293b6ca9a863b39c3bbcc3384c7/jetified-firebase-ui-auth-4.3.2/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/3be9296449aeadba790739aac6f2047d/jetified-firebase-ui-auth-4.3.2/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/32fae503444a0d62ff15dd1d098b9865/jetified-firebase-ui-auth-4.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0de98c4671a60b9deeb06057968751/jetified-firebase-ui-auth-4.3.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52795293b6ca9a863b39c3bbcc3384c7/jetified-firebase-ui-auth-4.3.2/jars/classes.jar!/" />
@@ -15,12 +16,17 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/32fae503444a0d62ff15dd1d098b9865/jetified-firebase-ui-auth-4.3.2/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/32fae503444a0d62ff15dd1d098b9865/jetified-firebase-ui-auth-4.3.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/32fae503444a0d62ff15dd1d098b9865/jetified-firebase-ui-auth-4.3.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0de98c4671a60b9deeb06057968751/jetified-firebase-ui-auth-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0de98c4671a60b9deeb06057968751/jetified-firebase-ui-auth-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0de98c4671a60b9deeb06057968751/jetified-firebase-ui-auth-4.3.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/4.3.2/3ca7ca15481cdf56a1cfcd722e1554da36b4090e/firebase-ui-auth-4.3.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/4.3.2/3ca7ca15481cdf56a1cfcd722e1554da36b4090e/firebase-ui-auth-4.3.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/4.3.2/179ed12641b8d131ef2a878b4e26c54f10320ee4/firebase-ui-auth-4.3.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/4.3.2/179ed12641b8d131ef2a878b4e26c54f10320ee4/firebase-ui-auth-4.3.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,6 +1,7 @@
 package com.ng.kallo;
 
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.net.http.SslError;
@@ -24,6 +25,8 @@ public class PaymetWeb extends AppCompatActivity {
     private ImageView IVback;
     private static String url = "";
 
+    private ProgressDialog mProgress;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,7 +49,24 @@ public class PaymetWeb extends AppCompatActivity {
         settings.setDomStorageEnabled(true);
         wvPayment.loadUrl(url);
 
-        wvPayment.setWebViewClient(new SSLTolerentWebViewClient());
+        wvPayment.setWebViewClient(new SSLTolerentWebViewClient() {
+            private ProgressDialog mProgress;
+
+            @Override
+            public void onProgressChanged(WebView view, int progress) {
+                if (mProgress == null) {
+                    mProgress = new ProgressDialog(getApplicationContext());
+                    mProgress.show();
+                }
+                mProgress.setMessage("Loading " + String.valueOf(progress) + "%");
+                if (progress == 100) {
+                    mProgress.dismiss();
+                    mProgress = null;
+                }
+            }
+
+        });
+
         init();
     }
 
@@ -61,7 +81,7 @@ public class PaymetWeb extends AppCompatActivity {
         });
     }
 
-    private class SSLTolerentWebViewClient extends WebViewClient {
+    private abstract class SSLTolerentWebViewClient extends WebViewClient {
 
         @Override
         public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {
@@ -97,17 +117,16 @@ public class PaymetWeb extends AppCompatActivity {
 
                 wvPayment.destroy();
 
+          }else if(url.equals("https://kallo.ng/user/login")){
+                Toast.makeText(mContext, "Payment successful", Toast.LENGTH_SHORT).show();
+                super.onPageFinished(view, "https://kallo.ng/user/login");
+                finish();
 
-//            else if (url.equals(furl)) {
-//                Toast.makeText(mContext, "Payment fail.", Toast.LENGTH_SHORT).show();
-//                //view.loadUrl("https://www.youtube.com");
-//                super.onPageFinished(view, furl);
-//                finish();
-//                wvPayment.clearCache(true);
-//
-//                wvPayment.clearHistory();
-//
-//                wvPayment.destroy();
+                wvPayment.clearCache(true);
+
+                wvPayment.clearHistory();
+
+                wvPayment.destroy();
             }else {
                 super.onPageFinished(view, url);
             }
@@ -119,6 +138,8 @@ public class PaymetWeb extends AppCompatActivity {
             // TODO Auto-generated method stub
             super.onReceivedError(view, errorCode, description, failingUrl);
         }
+
+        public abstract void onProgressChanged(WebView view, int progress);
     }
 
 

@@ -11,6 +11,9 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/eb5fc2dec6be30ea262fb6773307e4f4/jetified-audience-network-sdk-5.6.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/eb5fc2dec6be30ea262fb6773307e4f4/jetified-audience-network-sdk-5.6.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/eb5fc2dec6be30ea262fb6773307e4f4/jetified-audience-network-sdk-5.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0500e603b7405f0ea146acca7699b67/jetified-audience-network-sdk-5.6.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0500e603b7405f0ea146acca7699b67/jetified-audience-network-sdk-5.6.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0500e603b7405f0ea146acca7699b67/jetified-audience-network-sdk-5.6.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

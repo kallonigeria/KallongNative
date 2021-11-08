@@ -21,12 +21,12 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
+
     <WebView
-        android:layout_below="@+id/appBar"
         android:id="@+id/webView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        />
+        android:layout_below="@+id/appBar" />
 
     <ProgressBar
         android:id="@+id/progressBar"

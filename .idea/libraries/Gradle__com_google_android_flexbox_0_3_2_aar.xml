@@ -4,6 +4,7 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a7c6f855f30646b8eb07d1ec350ea36/jetified-flexbox-0.3.2/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/022e07e2ed997a852e1b79767ccce0e3/jetified-flexbox-0.3.2/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/00d1347e57d8d30b1bff7d932c48d255/jetified-flexbox-0.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a8749b192b843a3498790bea4d2a1f/jetified-flexbox-0.3.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a7c6f855f30646b8eb07d1ec350ea36/jetified-flexbox-0.3.2/jars/classes.jar!/" />
@@ -15,10 +16,14 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/00d1347e57d8d30b1bff7d932c48d255/jetified-flexbox-0.3.2/res" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/00d1347e57d8d30b1bff7d932c48d255/jetified-flexbox-0.3.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/00d1347e57d8d30b1bff7d932c48d255/jetified-flexbox-0.3.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a8749b192b843a3498790bea4d2a1f/jetified-flexbox-0.3.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a8749b192b843a3498790bea4d2a1f/jetified-flexbox-0.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a8749b192b843a3498790bea4d2a1f/jetified-flexbox-0.3.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.google.android/flexbox/0.3.2/8d8e90b2216eeeeb6bed4259dd3af97172c9bcd4/flexbox-0.3.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android/flexbox/0.3.2/8d8e90b2216eeeeb6bed4259dd3af97172c9bcd4/flexbox-0.3.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

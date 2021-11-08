@@ -28,7 +28,7 @@ android {
         applicationId "com.ng.kallo"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 4
+        versionCode 10
         versionName "1.2.4"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

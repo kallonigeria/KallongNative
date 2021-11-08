@@ -45,7 +45,7 @@ public class PackageAdapter extends RecyclerView.Adapter<PackageAdapter.ViewHold
         //holder.buyNowTv.setBackgroundColor(context.getResources().getColor(getColor()));
         Package pac = packageList.get(position);
         if (pac != null) {
-            holder.packageTv.setText(currency + " " + pac.getPrice() +" - " + pac.getName());
+            holder.packageTv.setText(currency + " " + pac.getPrice() +" - " + pac.getName() + " - " + pac.getDay() + "days");
         }
 
     }

@@ -13,6 +13,9 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/8e2e85b1e2706e79824a0408779d15d6/jetified-play-services-cast-framework-11.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7b9c2dc3cb88fc113923e3fa81583c/jetified-play-services-cast-framework-11.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7b9c2dc3cb88fc113923e3fa81583c/jetified-play-services-cast-framework-11.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7b9c2dc3cb88fc113923e3fa81583c/jetified-play-services-cast-framework-11.4.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

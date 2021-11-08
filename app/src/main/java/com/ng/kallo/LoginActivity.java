@@ -32,8 +32,8 @@ import retrofit2.Retrofit;
 
 public class LoginActivity extends AppCompatActivity {
     private EditText etEmail,etPass;
-    private TextView tvSignUp,tvReset;
-    private Button btnLogin;
+    private TextView tvReset;
+    private Button btnLogin, tvSignUp;
     private ProgressDialog dialog;
     private View backgroundView;
 

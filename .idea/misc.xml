@@ -3,17 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/border_white_default.xml" value="0.1814814814814815" />
+        <entry key="app/src/main/res/drawable/google_auth_btn.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/layout/active_subscription_layout.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_firebase_sign_up.xml" value="0.4244791666666667" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_pass_reset.xml" value="0.4244791666666667" />
         <entry key="app/src/main/res/layout/activity_paymet_web.xml" value="0.31567028985507245" />
-        <entry key="app/src/main/res/layout/activity_purchase_plan.xml" value="0.10536980749746708" />
+        <entry key="app/src/main/res/layout/activity_purchase_plan.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.45" />
         <entry key="app/src/main/res/layout/activity_subscription.xml" value="0.10536980749746708" />
-        <entry key="app/src/main/res/layout/activity_terms.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_terms.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_wallet.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/activity_web_view.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/card_live_tv.xml" value="0.10536980749746708" />
         <entry key="app/src/main/res/layout/card_server.xml" value="0.17028985507246377" />
         <entry key="app/src/main/res/layout/dialog_fund_wallet.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/dialog_term_of_services.xml" value="0.335" />
         <entry key="app/src/main/res/layout/layout_country_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_country_item_2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_deactivate.xml" value="0.335" />

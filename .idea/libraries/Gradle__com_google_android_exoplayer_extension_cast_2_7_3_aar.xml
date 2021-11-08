@@ -11,12 +11,17 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/821d115e56e037d0b6029a4ed5d36bee/jetified-extension-cast-2.7.3/res" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/821d115e56e037d0b6029a4ed5d36bee/jetified-extension-cast-2.7.3/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/821d115e56e037d0b6029a4ed5d36bee/jetified-extension-cast-2.7.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad2f093fdfeeb3f41328c5f835ab82c9/jetified-extension-cast-2.7.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad2f093fdfeeb3f41328c5f835ab82c9/jetified-extension-cast-2.7.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad2f093fdfeeb3f41328c5f835ab82c9/jetified-extension-cast-2.7.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-cast/2.7.3/5b310eba0b8f9fe0a483222dd4eabe5492f7e174/extension-cast-2.7.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-cast/2.7.3/5b310eba0b8f9fe0a483222dd4eabe5492f7e174/extension-cast-2.7.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-cast/2.7.3/28815cc3989b178f6140273ec0e02e34b585fe63/extension-cast-2.7.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-cast/2.7.3/28815cc3989b178f6140273ec0e02e34b585fe63/extension-cast-2.7.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

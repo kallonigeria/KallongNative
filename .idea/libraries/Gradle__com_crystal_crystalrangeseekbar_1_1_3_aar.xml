@@ -10,12 +10,17 @@
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c5474262671a1dcd7a97a7bca11d31e8/jetified-crystalrangeseekbar-1.1.3/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c5474262671a1dcd7a97a7bca11d31e8/jetified-crystalrangeseekbar-1.1.3/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c5474262671a1dcd7a97a7bca11d31e8/jetified-crystalrangeseekbar-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/648cb2656b8b7cef745d305e9bc61593/jetified-crystalrangeseekbar-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/648cb2656b8b7cef745d305e9bc61593/jetified-crystalrangeseekbar-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/648cb2656b8b7cef745d305e9bc61593/jetified-crystalrangeseekbar-1.1.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.crystal/crystalrangeseekbar/1.1.3/ef177cc678032843ea4b18b1d3a4d60ad8f45ccb/crystalrangeseekbar-1.1.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.crystal/crystalrangeseekbar/1.1.3/ef177cc678032843ea4b18b1d3a4d60ad8f45ccb/crystalrangeseekbar-1.1.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.crystal/crystalrangeseekbar/1.1.3/906916ce8d18a676bed8eb6b1875f9b839d11cd1/crystalrangeseekbar-1.1.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.crystal/crystalrangeseekbar/1.1.3/906916ce8d18a676bed8eb6b1875f9b839d11cd1/crystalrangeseekbar-1.1.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -2,10 +2,12 @@
   <library name="Gradle: com.github.Flutterwave.rave-android:rave_core:2.1.6">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_core/2.1.6/4d98303270296770bb2af024d6c88e99ea2ad822/rave_core-2.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_core/2.1.6/4d98303270296770bb2af024d6c88e99ea2ad822/rave_core-2.1.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_core/2.1.6/38050a91ef0190213951c7bdcad3b3ad8ccead45/rave_core-2.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Flutterwave.rave-android/rave_core/2.1.6/38050a91ef0190213951c7bdcad3b3ad8ccead45/rave_core-2.1.6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

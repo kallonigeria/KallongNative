@@ -10,10 +10,14 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/38215ce7468f316be7c550084dab235d/jetified-bottomify-navigation-view-1.0.2/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/38215ce7468f316be7c550084dab235d/jetified-bottomify-navigation-view-1.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/38215ce7468f316be7c550084dab235d/jetified-bottomify-navigation-view-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e9b7319dc4e2b8185359b070a24b1d0/jetified-bottomify-navigation-view-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e9b7319dc4e2b8185359b070a24b1d0/jetified-bottomify-navigation-view-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e9b7319dc4e2b8185359b070a24b1d0/jetified-bottomify-navigation-view-1.0.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.github.volsahin/bottomify-navigation-view/1.0.2/a54e02e46d2009dc66c53441a2de4423a88d027/bottomify-navigation-view-1.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.volsahin/bottomify-navigation-view/1.0.2/a54e02e46d2009dc66c53441a2de4423a88d027/bottomify-navigation-view-1.0.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

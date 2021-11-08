@@ -11,10 +11,14 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/72bcfe65ee94f5a63faa4aaf6c8506bb/jetified-inapp-sdk-3.10.1/res" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/72bcfe65ee94f5a63faa4aaf6c8506bb/jetified-inapp-sdk-3.10.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/72bcfe65ee94f5a63faa4aaf6c8506bb/jetified-inapp-sdk-3.10.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29a17adb6c5644a0c8fa43a07f3f9224/jetified-inapp-sdk-3.10.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29a17adb6c5644a0c8fa43a07f3f9224/jetified-inapp-sdk-3.10.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29a17adb6c5644a0c8fa43a07f3f9224/jetified-inapp-sdk-3.10.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.startapp/inapp-sdk/3.10.1/2e132b78a891e34e2902ff987d4b3b74195583c4/inapp-sdk-3.10.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/3.10.1/2e132b78a891e34e2902ff987d4b3b74195583c4/inapp-sdk-3.10.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

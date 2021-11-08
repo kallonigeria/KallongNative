@@ -10,12 +10,17 @@
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/619da5fbaa094af3f88de4c83308fd86/jetified-facebook-login-5.12.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/619da5fbaa094af3f88de4c83308fd86/jetified-facebook-login-5.12.1/res" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/619da5fbaa094af3f88de4c83308fd86/jetified-facebook-login-5.12.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2fb06f1caa16d5a3fe1faf89a4bbf875/jetified-facebook-login-5.12.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2fb06f1caa16d5a3fe1faf89a4bbf875/jetified-facebook-login-5.12.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2fb06f1caa16d5a3fe1faf89a4bbf875/jetified-facebook-login-5.12.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.facebook.android/facebook-login/5.12.1/d8ea4f8f3dae6e1695b7b4e8d5b65a5a2ac84bbf/facebook-login-5.12.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-login/5.12.1/d8ea4f8f3dae6e1695b7b4e8d5b65a5a2ac84bbf/facebook-login-5.12.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.facebook.android/facebook-login/5.12.1/82a28eade51fec890aeb7e16f8764c43d5f047bc/facebook-login-5.12.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-login/5.12.1/82a28eade51fec890aeb7e16f8764c43d5f047bc/facebook-login-5.12.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

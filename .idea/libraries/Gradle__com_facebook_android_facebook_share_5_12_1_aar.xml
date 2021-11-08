@@ -10,12 +10,17 @@
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c71c51386cbd6bb13dacf862674b8d00/jetified-facebook-share-5.12.1/res" />
       <root url="jar://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c71c51386cbd6bb13dacf862674b8d00/jetified-facebook-share-5.12.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../payFa/caches/transforms-2/files-2.1/c71c51386cbd6bb13dacf862674b8d00/jetified-facebook-share-5.12.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f93d29f38434ba9ebc2d438f00ed3875/jetified-facebook-share-5.12.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f93d29f38434ba9ebc2d438f00ed3875/jetified-facebook-share-5.12.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f93d29f38434ba9ebc2d438f00ed3875/jetified-facebook-share-5.12.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.12.1/d2935fc4605a397ee32ba3286f34a2828a24856c/facebook-share-5.12.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.12.1/d2935fc4605a397ee32ba3286f34a2828a24856c/facebook-share-5.12.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../payFa/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.12.1/1e743fd42c93d044fc97e616f3d3f5531481c471/facebook-share-5.12.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.12.1/1e743fd42c93d044fc97e616f3d3f5531481c471/facebook-share-5.12.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -70,7 +70,7 @@
                             android:layout_gravity="center_horizontal"
                             android:layout_marginBottom="@dimen/spacing_xlarge"
                             android:layout_marginTop="@dimen/spacing_middle"
-                            android:text="SignUP"
+                            android:text="SignUP / YI RIJISTA"
                             app:fontFamily="@font/sharp"
                             android:textAllCaps="true"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"

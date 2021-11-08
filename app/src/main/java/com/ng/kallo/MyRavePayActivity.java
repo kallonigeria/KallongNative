@@ -127,7 +127,7 @@ public class MyRavePayActivity extends AppCompatActivity{
                 .setfName(user.getName())
                 .setlName(user.getName())
                 .setNarration(aPackage.getName())
-                .setPublicKey("FLWPUBK_TEST-7868ccc828f12110189db5a01dd61591-X")
+                .setPublicKey("FLWPUBK-b0d1fe6e336f74fec903a961ccaaf00a-X")
                 .setTxRef(String.valueOf(random))
                 .acceptAccountPayments(true)
                 .acceptCardPayments(true)
@@ -147,7 +147,7 @@ public class MyRavePayActivity extends AppCompatActivity{
                 .acceptFrancMobileMoneyPayments(true)
                 .allowSaveCardFeature(true)
                 .shouldDisplayFee(true)
-                .setEncryptionKey("FLWSECK_TESTcd060eff8b17")
+                .setEncryptionKey("70754102b02623fb1c1d0558")
                 .initialize();
     }
 

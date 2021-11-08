@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FimPlayNative.iml" filepath="$PROJECT_DIR$/.idea/modules/FimPlayNative.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FimPlayNative.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FimPlayNative.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KallongNative.iml" filepath="$PROJECT_DIR$/.idea/modules/KallongNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KallongNative.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KallongNative.app.iml" />
     </modules>
   </component>
 </project>

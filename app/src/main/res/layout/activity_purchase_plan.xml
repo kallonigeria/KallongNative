@@ -27,7 +27,6 @@
         android:layout_centerInParent="true"/>
 
 
-
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -42,87 +41,99 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:layout_width="90dp"
-                    android:layout_height="90dp"
-                    android:src="@drawable/kallowhite"
-                    android:padding="15dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="end"
+                    android:layout_marginStart="20dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
                     android:clickable="true"
                     android:focusable="true"
-                    android:background="?attr/selectableItemBackgroundBorderless"
-                    android:layout_gravity="end"
-                    android:layout_marginStart="20dp"/>
+                    android:padding="15dp"
+                    android:src="@drawable/kallo" />
 
                 <ImageView
                     android:id="@+id/close_iv"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_close_black_24dp"
-                    android:padding="15dp"
+                    android:layout_alignParentEnd="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
                     android:clickable="true"
                     android:focusable="true"
-                    android:background="?attr/selectableItemBackgroundBorderless"
-                    android:layout_alignParentEnd="true"/>
+                    android:padding="15dp"
+                    android:src="@drawable/ic_close_black_24dp" />
 
             </RelativeLayout>
 
             <TextView
-                app:fontFamily="@font/sharp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="@dimen/spacing_middle"
+                android:layout_marginEnd="30dp"
                 android:text="Access extra feature with premium subscription -"
                 android:textSize="18sp"
-                android:layout_marginStart="40dp"
-                android:layout_marginEnd="30dp"
-                android:layout_marginTop="@dimen/spacing_middle"/>
+                app:fontFamily="@font/sharp" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
                 android:layout_marginStart="40dp"
-                android:layout_marginTop="@dimen/spacing_xlarge">
+                android:layout_marginTop="@dimen/spacing_xlarge"
+                android:orientation="vertical">
 
                 <TextView
-                    app:fontFamily="@font/sharp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_check_circle_blue"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
                     android:text="@string/unlimited_movies"
                     android:textSize="16sp"
-                    android:gravity="center"
-                    android:drawablePadding="5dp"
-                    android:drawableLeft="@drawable/ic_check_circle_blue"/>
+                    app:fontFamily="@font/sharp" />
 
                 <TextView
-                    app:fontFamily="@font/sharp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/spacing_medium"
+                    android:drawableLeft="@drawable/ic_check_circle_blue"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
                     android:text="@string/all_tv_series"
                     android:textSize="16sp"
-                    android:gravity="center"
-                    android:drawablePadding="5dp"
-                    android:layout_marginTop="@dimen/spacing_medium"
-                    android:drawableLeft="@drawable/ic_check_circle_blue"/>
+                    app:fontFamily="@font/sharp" />
 
                 <TextView
-                    app:fontFamily="@font/sharp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/spacing_medium"
+                    android:drawableLeft="@drawable/ic_check_circle_blue"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
                     android:text="@string/tv_channels"
                     android:textSize="16sp"
-                    android:gravity="center"
-                    android:drawablePadding="5dp"
-                    android:layout_marginTop="@dimen/spacing_medium"
-                    android:drawableLeft="@drawable/ic_check_circle_blue"/>
+                    app:fontFamily="@font/sharp" />
+
                 <TextView
-                    app:fontFamily="@font/sharp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/all_kids_videos"
-                    android:textSize="16sp"
-                    android:gravity="center"
                     android:layout_marginTop="@dimen/spacing_medium"
+                    android:drawableLeft="@drawable/ic_check_circle_blue"
                     android:drawablePadding="5dp"
-                    android:drawableLeft="@drawable/ic_check_circle_blue"/>
+                    android:gravity="center"
+                    android:text="Music"
+                    android:textSize="16sp"
+                    app:fontFamily="@font/sharp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/spacing_medium"
+                    android:drawableLeft="@drawable/ic_check_circle_blue"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:text="Documentaries"
+                    android:textSize="16sp"
+                    app:fontFamily="@font/sharp" />
 
 
             </LinearLayout>
@@ -131,9 +142,9 @@
                 android:id="@+id/pacakge_rv"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:listitem="@layout/layout_package_item_2"
                 android:layout_marginTop="25dp"
-                android:nestedScrollingEnabled="false"/>
+                android:nestedScrollingEnabled="false"
+                tools:listitem="@layout/layout_package_item_2" />
 
         </LinearLayout>
 

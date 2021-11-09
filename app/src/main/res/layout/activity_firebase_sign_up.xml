@@ -68,7 +68,7 @@
                 <Button
                     android:id="@+id/emailSignInBtn"
                     android:layout_width="match_parent"
-                    android:layout_height="60dp"
+                    android:layout_height="70dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="30dp"
@@ -83,14 +83,14 @@
                     android:text="Sign in with email address\nShiga da Email adireshi"
                     android:textAllCaps="false"
                     android:textColor="@android:color/white"
-                    android:textSize="16sp"
+                    android:textSize="14sp"
                     android:textStyle="bold"
                     app:fontFamily="@font/sharp" />
 
                 <Button
                     android:id="@+id/google_auth"
                     android:layout_width="match_parent"
-                    android:layout_height="60dp"
+                    android:layout_height="70dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="12dp"
@@ -105,7 +105,7 @@
                     android:textAlignment="textEnd"
                     android:textAllCaps="false"
                     android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    android:textSize="14sp"
                     android:visibility="gone"
                     app:fontFamily="@font/sharp"
                     tools:visibility="visible" />
@@ -114,7 +114,7 @@
                 <Button
                     android:id="@+id/phoneSignInBtn"
                     android:layout_width="match_parent"
-                    android:layout_height="60dp"
+                    android:layout_height="70dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="10dp"
@@ -129,7 +129,7 @@
                     android:text="Sign in with phone number\nShiga da Lambar Waya"
                     android:textAllCaps="false"
                     android:textColor="@android:color/white"
-                    android:textSize="16sp"
+                    android:textSize="14sp"
                     android:textStyle="bold"
                     android:visibility="gone"
                     app:fontFamily="@font/sharp"
@@ -184,7 +184,7 @@
                     android:text="© SpaceKraft Media Limited"
                     android:textAllCaps="false"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-                    android:textColor="@color/colorPrimary"
+                    android:textColor="@color/white"
                     android:textSize="12dp"
                     android:textAlignment="center"
                     android:textStyle="bold"
